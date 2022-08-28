@@ -1,0 +1,5 @@
+O que aprendi sobre Git e Github até o momento?
+Ainda estou conhecendo o Git e o Github, mas entendi que o github é uma plataforma que tem uma funcionalidade de repositório, onde os usuários podem trabalhar colaborativamente e hospedar
+"Git é um sistema de controle de versão para rastrear alterações em arquivos e coordenar o trabalho nesses arquivos modificados entre várias pessoas" Entendo o git como uma ferramenta que me permite executar comandos e estabelecer uma ligação entre o meu repositório e o repositório principal hospedado no Github. Hoje na aula de reforço aprendi como fazer o fork do repositório, clonar esse fork, acessar a pasta onde meu repositório está.
+Quais são as minhas dúvidas sobre Git e Github?
+Ainda preciso estudar e me aprofundar mais usando o Git e Github para poder elaborar minhas dúvidas de forma eficiente.
